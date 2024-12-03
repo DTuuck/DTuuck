@@ -8,6 +8,6 @@
 - 🤔 I’m looking for help with ... anything and everything :)
 - 💬 Ask me about ... my career, hobbies, movies, and music.
 - 😄 Pronouns: ... he/him
-- ⚡ Favorite joke ... A mushroom walks into a bar, the bartender goes,
-"We don't serve your kind here!",
- the mushroom replies, "Why? I'm a fun-gi."
+- ⚡ Favorite joke ... A mushroom walks into a bar,<br> 
+the bartender goes, "We don't serve your kind here!",<br> 
+the mushroom replies, "Why? I'm a fun-gi."
